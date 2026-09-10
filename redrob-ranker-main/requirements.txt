@@ -1,0 +1,47 @@
+# Streamlit
+streamlit>=1.47.0
+plotly>=6.0.0
+
+# Backend
+fastapi>=0.115.0
+uvicorn[standard]>=0.35.0
+requests>=2.32.0
+python-dotenv>=1.0.1
+pydantic>=2.10.0
+
+# Core
+numpy>=2.2.0
+pandas>=2.3.0
+scipy>=1.15.0
+
+# NLP & Embeddings
+sentence-transformers>=5.0.0
+transformers>=4.53.0
+torch>=2.7.0
+tokenizers>=0.21.0
+
+# Search & Retrieval
+rank-bm25>=0.2.2
+bm25s>=0.2.0
+faiss-cpu>=1.11.0
+
+# Learning to Rank
+lightgbm>=4.6.0
+scikit-learn>=1.7.0
+
+# Text Processing
+nltk>=3.9
+spacy>=3.8
+
+# Data & Serialization
+orjson>=3.11
+pyarrow>=21.0
+PyYAML>=6.0.2
+
+# Utilities
+tqdm>=4.67
+joblib>=1.5
+click>=8.2
+
+# Evaluation
+ranx>=0.3.20

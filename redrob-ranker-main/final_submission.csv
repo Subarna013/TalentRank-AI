@@ -1,0 +1,101 @@
+candidate_id,rank,score,reasoning
+CAND_0008425,1,0.9900,"Senior NLP Engineer with 7.8 yrs at Ola; core skills: Qdrant, NLP, Python, LoRA; consistent product-company ML career; career shows production retrieval/ranking system work; responsive (66%)."
+CAND_0002025,2,0.9820,"Senior AI Engineer with 5.9 yrs at Apple; core skills: FAISS, OpenSearch, Weaviate, QLoRA; consistent product-company ML career; career shows production retrieval/ranking system work; highly engaged (80% response rate)."
+CAND_0030031,3,0.9740,"AI Engineer with 5.7 yrs at Microsoft; core skills: Information Retrieval, Python, NLP, LoRA; consistent product-company ML career; career shows production retrieval/ranking system work; responsive (94%)."
+CAND_0079387,4,0.9661,"AI Engineer with 6.9 yrs at Microsoft; core skills: Python, OpenSearch, QLoRA, LoRA; consistent product-company ML career; career shows production retrieval/ranking system work; highly engaged (81% response rate)."
+CAND_0028793,5,0.9581,"Search Engineer with 7.2 yrs at Google; core skills: Embeddings, LoRA, Information Retrieval, PEFT; consistent product-company ML career; career shows production retrieval/ranking system work; responsive (57%)."
+CAND_0005649,6,0.9501,"Senior Data Scientist with 7.4 yrs at Sarvam AI; core skills: QLoRA, Weaviate, Information Retrieval; consistent product-company ML career; career shows production retrieval/ranking system work; responsive (57%)."
+CAND_0039754,7,0.9421,"Senior Applied Scientist with 16.2 yrs at Meta; core skills: Qdrant, NLP, OpenSearch, Weaviate; consistent product-company ML career; career shows production retrieval/ranking system work; highly engaged (81% response rate)."
+CAND_0080766,8,0.9341,"Staff Machine Learning Engineer with 8.8 yrs at Salesforce; core skills: LoRA, Elasticsearch, QLoRA, OpenSearch; consistent product-company ML career; career shows production retrieval/ranking system work; responsive (66%)."
+CAND_0077285,9,0.9262,"Recommendation Systems Engineer with 5.5 yrs at Nykaa; core skills: LoRA, Pinecone, Embeddings, Information Retrieval; consistent product-company ML career; career shows production retrieval/ranking system work; responsive (56%)."
+CAND_0081846,10,0.9182,"Lead AI Engineer with 6.7 yrs at Razorpay; core skills: Information Retrieval, Elasticsearch, Python, Embeddings; consistent product-company ML career; career shows production retrieval/ranking system work; highly engaged (73% response rate)."
+CAND_0041610,11,0.9102,Recommendation Systems Engineer at Zoho; 6.7 yrs; strong title match (Recommendation Systems Engineer).
+CAND_0071974,12,0.9022,Senior AI Engineer at Netflix; 7.8 yrs; strong title match (Senior AI Engineer).
+CAND_0018499,13,0.8942,Senior Machine Learning Engineer at Zomato; 7.2 yrs; strong title match (Senior Machine Learning Engineer).
+CAND_0046525,14,0.8863,Senior Machine Learning Engineer at Genpact AI; 6.1 yrs; strong title match (Senior Machine Learning Engineer).
+CAND_0005538,15,0.8783,Senior AI Engineer at Adobe; 5.9 yrs; strong title match (Senior AI Engineer).
+CAND_0077337,16,0.8703,Staff Machine Learning Engineer at Paytm; 7.0 yrs; strong title match (Staff Machine Learning Engineer).
+CAND_0086022,17,0.8623,Senior Applied Scientist at Sarvam AI; 5.3 yrs; strong title match (Senior Applied Scientist).
+CAND_0005260,18,0.8543,Senior NLP Engineer at Netflix; 5.2 yrs; strong title match (Senior NLP Engineer).
+CAND_0046064,19,0.8464,Senior NLP Engineer at Salesforce; 8.9 yrs; strong title match (Senior NLP Engineer).
+CAND_0042506,20,0.8384,Search Engineer at Verloop.io; 4.2 yrs; strong title match (Search Engineer).
+CAND_0010685,21,0.8304,NLP Engineer at Rephrase.ai; 6.7 yrs; strong title match (NLP Engineer).
+CAND_0096142,22,0.8224,Applied ML Engineer at upGrad; 5.0 yrs; strong title match (Applied ML Engineer); concern: long notice period (120d).
+CAND_0001610,23,0.8144,Machine Learning Engineer at Dream11; 3.0 yrs; strong title match (Machine Learning Engineer).
+CAND_0058575,24,0.8065,AI Engineer at Krutrim; 5.8 yrs; strong title match (AI Engineer).
+CAND_0033861,25,0.7985,Senior NLP Engineer at Mad Street Den; 8.0 yrs; strong title match (Senior NLP Engineer).
+CAND_0064326,26,0.7905,Search Engineer at Sarvam AI; 7.6 yrs; strong title match (Search Engineer).
+CAND_0074735,27,0.7825,Applied ML Engineer at Rephrase.ai; 5.5 yrs; strong title match (Applied ML Engineer).
+CAND_0065195,28,0.7745,Search Engineer at CRED; 5.1 yrs; strong title match (Search Engineer).
+CAND_0068811,29,0.7666,Applied ML Engineer at Freshworks; 8.0 yrs; strong title match (Applied ML Engineer).
+CAND_0041669,30,0.7586,Recommendation Systems Engineer at CRED; 8.0 yrs; strong title match (Recommendation Systems Engineer).
+CAND_0088025,31,0.7506,"Staff Machine Learning Engineer, 8.6 yrs; strong title match (Staff Machine Learning Engineer)."
+CAND_0029367,32,0.7426,"Senior Data Scientist, 5.7 yrs; strong title match (Senior Data Scientist)."
+CAND_0027691,33,0.7346,"NLP Engineer, 6.5 yrs; strong title match (NLP Engineer)."
+CAND_0030953,34,0.7267,"Search Engineer, 7.8 yrs; strong title match (Search Engineer)."
+CAND_0044855,35,0.7187,"Senior Data Scientist, 6.6 yrs; strong title match (Senior Data Scientist)."
+CAND_0011687,36,0.7107,"Senior NLP Engineer, 7.8 yrs; strong title match (Senior NLP Engineer)."
+CAND_0095528,37,0.7027,"Senior Data Scientist, 5.3 yrs; strong title match (Senior Data Scientist)."
+CAND_0017960,38,0.6947,"Recommendation Systems Engineer, 7.7 yrs; strong title match (Recommendation Systems Engineer)."
+CAND_0078002,39,0.6868,"Machine Learning Engineer, 6.3 yrs; strong title match (Machine Learning Engineer)."
+CAND_0061265,40,0.6788,"Recommendation Systems Engineer, 6.6 yrs; strong title match (Recommendation Systems Engineer); long notice period (120d)."
+CAND_0098846,41,0.6708,"AI Engineer, 7.6 yrs; strong title match (AI Engineer)."
+CAND_0010257,42,0.6628,"Senior Data Scientist, 6.5 yrs; strong title match (Senior Data Scientist); long notice period (120d)."
+CAND_0083307,43,0.6548,"Search Engineer, 7.8 yrs; strong title match (Search Engineer); long notice period (120d)."
+CAND_0066376,44,0.6469,"Applied ML Engineer, 5.7 yrs; strong title match (Applied ML Engineer)."
+CAND_0075574,45,0.6389,"Machine Learning Engineer, 5.7 yrs; strong title match (Machine Learning Engineer)."
+CAND_0076831,46,0.6309,"Search Engineer, 4.0 yrs; strong title match (Search Engineer)."
+CAND_0011162,47,0.6229,"Recommendation Systems Engineer, 5.8 yrs; strong title match (Recommendation Systems Engineer)."
+CAND_0049896,48,0.6149,"Search Engineer, 7.3 yrs; strong title match (Search Engineer)."
+CAND_0007009,49,0.6070,"Recommendation Systems Engineer, 7.9 yrs; strong title match (Recommendation Systems Engineer)."
+CAND_0045250,50,0.5990,"Applied ML Engineer, 6.6 yrs; strong title match (Applied ML Engineer)."
+CAND_0043228,51,0.5910,"Applied ML Engineer, 6.8 yrs; strong title match (Applied ML Engineer)."
+CAND_0027801,52,0.5830,"NLP Engineer, 7.4 yrs; strong title match (NLP Engineer); long notice period (120d)."
+CAND_0039838,53,0.5751,"Recommendation Systems Engineer, 4.9 yrs; strong title match (Recommendation Systems Engineer)."
+CAND_0076251,54,0.5671,"Search Engineer, 7.6 yrs; strong title match (Search Engineer)."
+CAND_0064888,55,0.5591,"ML Engineer, 5.8 yrs; strong title match (ML Engineer)."
+CAND_0074225,56,0.5511,"Machine Learning Engineer, 4.3 yrs; strong title match (Machine Learning Engineer); long notice period (120d)."
+CAND_0092278,57,0.5431,"Senior NLP Engineer, 6.8 yrs; strong title match (Senior NLP Engineer); low platform engagement/responsiveness."
+CAND_0064904,58,0.5352,"AI Engineer, 4.9 yrs; strong title match (AI Engineer)."
+CAND_0031593,59,0.5272,"Search Engineer, 7.8 yrs; strong title match (Search Engineer)."
+CAND_0052682,60,0.5192,"NLP Engineer, 6.6 yrs; strong title match (NLP Engineer)."
+CAND_0092255,61,0.5112,"ML Engineer, 5.2 yrs; included for: strong title match (ML Engineer)."
+CAND_0015528,62,0.5032,"Applied ML Engineer, 7.4 yrs; included for: strong title match (Applied ML Engineer)."
+CAND_0033445,63,0.4953,"ML Engineer, 6.8 yrs; included for: strong title match (ML Engineer)."
+CAND_0060315,64,0.4873,"Senior Software Engineer (ML), 5.4 yrs; included for: strong title match (Senior Software Engineer (ML))."
+CAND_0051292,65,0.4793,"Applied ML Engineer, 5.2 yrs; included for: strong title match (Applied ML Engineer)."
+CAND_0030946,66,0.4713,"Junior ML Engineer, 6.7 yrs; included for: strong title match (Junior ML Engineer)."
+CAND_0094759,67,0.4633,"Lead AI Engineer, 8.6 yrs; included for: strong title match (Lead AI Engineer)."
+CAND_0037944,68,0.4554,"Senior Data Scientist, 4.9 yrs; included for: strong title match (Senior Data Scientist)."
+CAND_0037980,69,0.4474,"Senior Applied Scientist, 9.0 yrs; included for: strong title match (Senior Applied Scientist)."
+CAND_0025640,70,0.4394,"AI Research Engineer, 5.6 yrs; included for: strong title match (AI Research Engineer)."
+CAND_0032216,71,0.4314,"ML Engineer, 6.1 yrs; included for: strong title match (ML Engineer)."
+CAND_0061339,72,0.4234,"Search Engineer, 4.2 yrs; included for: strong title match (Search Engineer)."
+CAND_0040178,73,0.4155,"ML Engineer, 5.0 yrs; included for: strong title match (ML Engineer)."
+CAND_0099401,74,0.4075,"NLP Engineer, 7.7 yrs; included for: strong title match (NLP Engineer)."
+CAND_0067866,75,0.3995,"Senior Software Engineer (ML), 6.4 yrs; included for: strong title match (Senior Software Engineer (ML))."
+CAND_0011327,76,0.3915,"AI Research Engineer, 6.3 yrs; included for: strong title match (AI Research Engineer)."
+CAND_0022812,77,0.3835,"Applied ML Engineer, 4.5 yrs; included for: strong title match (Applied ML Engineer)."
+CAND_0006418,78,0.3756,"Machine Learning Engineer, 5.7 yrs; included for: strong title match (Machine Learning Engineer)."
+CAND_0070398,79,0.3676,"Machine Learning Engineer, 7.2 yrs; long notice period (120d); included for: strong title match (Machine Learning Engineer)."
+CAND_0075439,80,0.3596,"Machine Learning Engineer, 4.3 yrs; included for: strong title match (Machine Learning Engineer)."
+CAND_0084819,81,0.3516,"Search Engineer, 4.5 yrs; long notice period (120d); included for: strong title match (Search Engineer)."
+CAND_0039383,82,0.3436,"Applied ML Engineer, 7.1 yrs; included for: strong title match (Applied ML Engineer)."
+CAND_0020708,83,0.3357,"Search Engineer, 4.2 yrs; included for: strong title match (Search Engineer)."
+CAND_0006567,84,0.3277,"Senior AI Engineer, 7.9 yrs; included for: strong title match (Senior AI Engineer)."
+CAND_0065786,85,0.3197,"AI Specialist, 4.9 yrs; non-technical title (AI Specialist); included for: relevant skills (LoRA, Pinecone)."
+CAND_0043958,86,0.3117,"AI Research Engineer, 6.7 yrs; long notice period (120d); included for: strong title match (AI Research Engineer)."
+CAND_0030348,87,0.3037,"Machine Learning Engineer, 4.5 yrs; included for: strong title match (Machine Learning Engineer)."
+CAND_0075249,88,0.2958,"Applied ML Engineer, 6.2 yrs; included for: strong title match (Applied ML Engineer)."
+CAND_0016659,89,0.2878,"ML Engineer, 4.4 yrs; included for: strong title match (ML Engineer)."
+CAND_0044890,90,0.2798,"AI Research Engineer, 5.0 yrs; included for: strong title match (AI Research Engineer)."
+CAND_0010770,91,0.2718,"Recommendation Systems Engineer, 15.2 yrs; significantly over experience range (15.2y); included for: strong title match (Recommendation Systems Engineer)."
+CAND_0007412,92,0.2638,"Applied ML Engineer, 7.4 yrs; long notice period (120d); included for: strong title match (Applied ML Engineer)."
+CAND_0016163,93,0.2559,"Applied ML Engineer, 6.7 yrs; long notice period (120d); included for: strong title match (Applied ML Engineer)."
+CAND_0002344,94,0.2479,"Senior Software Engineer (ML), 4.7 yrs; long notice period (120d); included for: strong title match (Senior Software Engineer (ML))."
+CAND_0052706,95,0.2399,"AI Research Engineer, 5.1 yrs; included for: strong title match (AI Research Engineer)."
+CAND_0061655,96,0.2319,"Machine Learning Engineer, 4.6 yrs; included for: strong title match (Machine Learning Engineer)."
+CAND_0050454,97,0.2239,"AI Engineer, 6.8 yrs; included for: strong title match (AI Engineer)."
+CAND_0044883,98,0.2160,"AI Engineer, 6.3 yrs; included for: strong title match (AI Engineer)."
+CAND_0053695,99,0.2080,"Recommendation Systems Engineer, 5.8 yrs; included for: strong title match (Recommendation Systems Engineer)."
+CAND_0087630,100,0.2000,"AI Engineer, 7.2 yrs; included for: strong title match (AI Engineer)."

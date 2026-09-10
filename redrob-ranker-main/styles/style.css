@@ -1,0 +1,142 @@
+/* =========================================================
+   REDROB AI — Dark Admin Dashboard Theme
+========================================================= */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap');
+
+:root {
+    --bg: #0a0e1a;
+    --bg-secondary: #0f1525;
+    --sidebar-bg: #0c1220;
+    --card: #131b2e;
+    --border: #1e2a45;
+    --primary: #4f8cff;
+    --cyan: #00d4ff;
+    --green: #10b981;
+    --yellow: #f59e0b;
+    --red: #ef4444;
+    --purple: #8b5cf6;
+    --text: #ffffff;
+    --text-secondary: #94a3b8;
+    --text-muted: #64748b;
+}
+
+* {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+/* Hide only the menu and footer, keep header for sidebar toggle */
+#MainMenu { visibility: hidden; }
+footer { visibility: hidden; }
+
+/* Main background */
+.stApp {
+    background: var(--bg) !important;
+}
+
+.block-container {
+    max-width: 1500px;
+    padding-top: 2rem;
+}
+
+/* Sidebar */
+section[data-testid="stSidebar"] {
+    background: var(--sidebar-bg) !important;
+    border-right: 1px solid var(--border);
+}
+
+section[data-testid="stSidebar"] > div {
+    padding-top: 1rem;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-thumb { background: #2a3a5c; border-radius: 10px; }
+
+/* Typography */
+h1 { font-size: 26px; font-weight: 700; color: white; }
+h2 { font-size: 22px; font-weight: 600; color: white; }
+h3 { font-size: 18px; font-weight: 600; color: white; }
+
+/* Metrics */
+[data-testid="metric-container"] {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 14px;
+    padding: 14px;
+}
+
+/* Buttons */
+.stButton > button {
+    background: linear-gradient(135deg, #4f8cff, #00d4ff);
+    color: white;
+    border: none;
+    border-radius: 10px;
+    font-weight: 600;
+}
+
+.stDownloadButton > button {
+    background: linear-gradient(135deg, #10b981, #06d6a0);
+    color: white;
+    border: none;
+    border-radius: 10px;
+    font-weight: 600;
+}
+
+/* Inputs */
+.stTextInput input, .stNumberInput input {
+    background: var(--bg-secondary) !important;
+    border: 1px solid var(--border) !important;
+    border-radius: 10px !important;
+    color: white !important;
+}
+
+.stSelectbox div[data-baseweb="select"] {
+    background: var(--bg-secondary);
+    border-radius: 10px;
+}
+
+/* File Uploader */
+[data-testid="stFileUploader"] {
+    background: var(--card);
+    border: 2px dashed var(--border);
+    border-radius: 14px;
+    padding: 20px;
+}
+
+/* DataFrames */
+[data-testid="stDataFrame"] {
+    border-radius: 14px;
+    overflow: hidden;
+    border: 1px solid var(--border);
+}
+
+/* Plotly */
+.js-plotly-plot {
+    border-radius: 14px;
+    overflow: hidden;
+}
+
+/* Divider */
+hr { border-color: var(--border) !important; }
+
+/* Progress bar */
+.stProgress > div > div > div {
+    background: linear-gradient(90deg, var(--primary), var(--cyan));
+    border-radius: 10px;
+}
+.stProgress > div > div {
+    background: #1e2a45;
+    border-radius: 10px;
+}
+
+/* Tabs */
+button[data-baseweb="tab"] {
+    background: var(--card);
+    border-radius: 10px;
+    color: var(--text-secondary);
+}
+button[data-baseweb="tab"][aria-selected="true"] {
+    background: var(--primary);
+    color: white;
+}

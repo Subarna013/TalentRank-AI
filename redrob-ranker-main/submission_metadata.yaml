@@ -1,0 +1,56 @@
+# Redrob Hackathon — Submission Metadata
+# Fill in your actual team details before submitting.
+
+team_name: "your-team-name-here"
+
+primary_contact:
+  name: "Your Name"
+  email: "your@email.com"
+  phone: "+91-XXXXXXXXXX"
+
+team_members:
+  - name: "Your Name"
+    email: "your@email.com"
+    role: "ML Engineer"
+
+github_repo: "https://github.com/YOUR_USERNAME/redrob-ranker"
+sandbox_link: "https://huggingface.co/spaces/YOUR_USERNAME/redrob-ranker"
+
+reproduce_command: "python rank.py --candidates ./candidates.jsonl --out ./submission.csv"
+
+compute:
+  platform: "MacBook Pro M2"
+  cpu_cores: 8
+  ram_gb: 16
+  python_version: "3.11.4"
+  os: "macOS 14.2"
+  uses_gpu_for_inference: false
+  has_network_during_ranking: false
+  pre_computation_required: false
+  pre_computation_time_minutes: 0
+
+ai_tools_used:
+  - "Claude"
+  - "Kiro"
+
+ai_usage_summary: |
+  Used Claude/Kiro for architecture discussion, code review, and implementation
+  scaffolding. All ranking logic, feature engineering decisions, and system
+  design were human-directed. No candidate data was fed to any hosted LLM
+  during the ranking step.
+
+methodology_summary: |
+  Multi-stage retrieval + ranking system inspired by LinkedIn Recruiter and
+  Eightfold AI architectures. BM25 sparse retrieval feeds into a 5-family
+  feature engineering pipeline (skills, career, experience, education, behavioral)
+  with composite scoring. Honeypot detection uses career timeline analysis,
+  skill inflation detection, and title-description consistency checks.
+  Deterministic reasoning engine generates fact-based explanations from
+  top-contributing features. Runs in ~30 seconds on CPU for 100K candidates.
+
+declarations:
+  read_submission_spec: true
+  code_is_original_work: true
+  no_collusion: true
+  honeypot_check_done: true
+  reproduction_tested: true

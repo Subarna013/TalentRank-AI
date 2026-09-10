@@ -1,0 +1,19 @@
+# Core dependencies for deployment (Streamlit + FastAPI + ranking engine)
+numpy>=1.24.0
+pandas>=2.0.0
+rank-bm25>=0.2.2
+
+# Web framework
+streamlit>=1.32.0
+streamlit-option-menu>=0.3.6
+fastapi>=0.109.0
+uvicorn>=0.27.0
+
+# HTTP client for frontend-backend communication
+requests>=2.31.0
+
+# Visualization
+plotly>=5.18.0
+
+# Excel export support
+openpyxl>=3.1.0

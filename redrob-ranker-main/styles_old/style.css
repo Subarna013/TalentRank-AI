@@ -1,0 +1,196 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap');
+
+#MainMenu{
+    visibility:hidden;
+}
+
+footer{
+    visibility:hidden;
+}
+
+header{
+    visibility:hidden;
+}
+
+/* Global */
+html, body, [class*="css"]{
+    font-family:'Poppins',sans-serif;
+    background:#08111f;
+    color:white;
+}
+
+/* Main container */
+.block-container{
+    padding-top:2rem;
+    padding-bottom:2rem;
+    max-width:1200px;
+}
+
+/* Animated background */
+.stApp{
+    background:linear-gradient(-45deg,#08111f,#0b1220,#112240,#0d1b2a);
+    background-size:400% 400%;
+    animation:gradient 15s ease infinite;
+}
+
+@keyframes gradient{
+
+0%{
+background-position:0% 50%;
+}
+
+50%{
+background-position:100% 50%;
+}
+
+100%{
+background-position:0% 50%;
+}
+
+}
+
+/* Hero Title */
+
+.hero-title{
+
+font-size:58px;
+
+font-weight:800;
+
+text-align:center;
+
+margin-top:20px;
+
+color:white;
+
+}
+
+/* Hero Subtitle */
+
+.hero-sub{
+
+font-size:20px;
+
+text-align:center;
+
+color:#bfc7d5;
+
+margin-bottom:50px;
+
+}
+
+/* Glass Card */
+
+.glass{
+
+background:rgba(255,255,255,.08);
+
+backdrop-filter:blur(16px);
+
+border:1px solid rgba(255,255,255,.15);
+
+border-radius:25px;
+
+padding:35px;
+
+box-shadow:0 8px 30px rgba(0,0,0,.35);
+
+}
+
+/* Upload Area */
+
+.upload-box{
+
+border:2px dashed #00D4FF;
+
+padding:40px;
+
+border-radius:20px;
+
+text-align:center;
+
+background:rgba(255,255,255,.03);
+
+transition:.3s;
+
+}
+
+.upload-box:hover{
+
+background:rgba(0,212,255,.08);
+
+transform:scale(1.02);
+
+}
+
+/* Metric Cards */
+
+.metric-card{
+
+background:rgba(255,255,255,.08);
+
+border-radius:20px;
+
+padding:20px;
+
+text-align:center;
+
+box-shadow:0 8px 20px rgba(0,0,0,.35);
+
+transition:.3s;
+
+}
+
+.metric-card:hover{
+
+transform:translateY(-8px);
+
+}
+
+.metric-number{
+
+font-size:34px;
+
+font-weight:700;
+
+color:#00D4FF;
+
+}
+
+.metric-label{
+
+font-size:16px;
+
+color:#d4d4d4;
+
+}
+
+/* Buttons */
+
+.stButton>button{
+
+background:#00D4FF;
+
+color:black;
+
+font-weight:700;
+
+border:none;
+
+border-radius:12px;
+
+padding:12px 30px;
+
+transition:.3s;
+
+}
+
+.stButton>button:hover{
+
+background:white;
+
+transform:scale(1.05);
+
+}
